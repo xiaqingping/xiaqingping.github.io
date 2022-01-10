@@ -1,0 +1,12 @@
+.table-c table {
+  border-right: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
+}
+.table-c table td {
+  border-left: 1px solid #dbdbdb;
+  border-top: 1px solid #dbdbdb;
+}
+.table-c table td.td1 {
+  text-align: center;
+  vertical-align: middle;
+}

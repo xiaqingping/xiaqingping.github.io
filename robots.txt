@@ -1,0 +1,14 @@
+User-agent: * 
+Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+Allow: /home/
+Allow: /about/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+
+Sitemap: http://scott_xia.gitee.io/blog/sitemap.xml
+Sitemap: http://scott_xia.gitee.io/blog/baidusitemap.xml
